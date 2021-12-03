@@ -9,7 +9,6 @@ const { fetchJson } = require('./banco_de-dados/lib/fetcher')
 const { msgFilter } = require('./banco_de-dados/lib/antispam')
 const thiccysapi = require('textmaker-thiccy');
 const moment = require('moment-timezone')
-const { translate } = require('bing-translate-api');
 const { traceDeprecation } = require("process")
 
 // DEFININDO //
