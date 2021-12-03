@@ -189,121 +189,30 @@ helptxt = `
 │ _Agora são -_ *"${timee}"*!
 ╰──────────────────
 
-╭──〘 Comandos 🔎 〙──
-│
-│
-│  「 Info ℹ️ 」
-│
-│ 1 */?*
-│ 2 */dono*
+╭──〘🔎 〙──
 │
 │  「 Comandos gp 🪀」
 │
 │ 3 */kick* 
-│ _Marque uma mensagem do alvo_
 │
 │ 4 */reviver*
-│ _Marque uma mensagem do alvo_
 │
 │ 5 */promote*
-│ _Marque uma mensagem do alvo_
 │
 │ 6 */demote*
-│ _Marque uma mensagem do alvo_
 │
 │ 7 */add*
-│ _Ex: /add 5517991134416_
 │
-│
-│  「Texto na imagem ✏️」
-│
-│ 8 */plaquinha* [nome]
-│ 9 */light* [texto]
-│ 10 */devil* [texto]
-│ 11 */tec* [texto]
-│ 12 */luz* [texto]
-│ 13 */galaxia* [texto]
-│ 14 */neon* [texto]
-│ 15 */papel* [texto]
-│ 16 */doce* [texto]
-│ 17 */vela* [texto]
-│ 18 */magma* [texto]
-│ 19 */thunder* [texto]
-│ 20 */glitch* [texto]
-│ 21 */neon3d* [texto]
-│ 22 */blood* [texto]
-│ 23 */wall* [texto]
-│ 24 */joker* [texto]
-│ 25 */rua* [texto]
-│ 26 */praia* [texto]
-│ 27 */fiction* [texto]
-│ 28 */potter* [texto]
-│ 29 */neongreen* [texto]
-│ 30 */blood2* [texto]
-│ 31 */toxic* [texto]
-│ 32 */metal* [texto]
-│ 33 */urso* [texto]
 │
 │  「Random Imagens 」
 │ 
 │ 34 */loli*
 │ 35 */cosplay*
 │ 36 */husbu*
-│
-│
-│  「Packs 🔞」
-│ 
-│ 37 */forestfaye*
-│ 38 */leticia_shirayuki*
-│ 39 */jenniie*
-│ 40 */alinefaria*
-│ 41 */honey69*
-│ 42 */cclowniac*
-│ 43 */sethi*
-│ 44 */raychiel*
-│ 45 */lais*
-│ 46 */alinefox*
-│ 47 */beatrzz*
-│ 48 */bunni*
-│ 49 */nivnixxi*
-│ 50 */angela*
-│ 51 */callmesloo*
-│ 52 */hannahowo*
-│ 53 */me1adinha*
-│ 54 */cogumay*
-│ 55 */fabiola_mendoza*
-│ 56 */missbrasilia*
-│ 57 */vitacelestine*
-│ 58 */belledelphine*
-│ 59 */mayakayagaia*
-│ 60 */kittykum*
-│ 61 */mackenzie*
-│ 62 */fulltimecrybaby*
-│ 63 */dracuina*
-│ 64 */saekkico*
-│ 65 */lynienicole*
-│ 66 */powrice*
-│ 67 */wendy666*
-│ 68 */shirokitsune*
-│ 69 */moonfox*
-│ 70 */love_lilah*
-│ 71 */mcmirella*
-│
-│  「Outros」
-│ 
-│ 72 */morte* 
-│ 73 */genero* 
-│ 74 */traduzir* 
-│ 
-│
 ╰────────────────
 ╭────────────────
-│ Dono - "Dark"
-│ Yt → Darkkk
-│ Wpp → 17991134416
-│ Info → /dono
-│
-╰──〘 Mia 〙──`
+│ᗷᗝ丅 ᛕIᑎǤᗪᗝᗰ
+╰──〘ᗷᗴ丅ᗩ 丅ᗴᔕ丅 ᗰᗝᗪ〙──`
 
                   mett = ["1", "2", "3", "4", "5"] 
                   res = mett[Math.floor(Math.random() * mett.length)]
